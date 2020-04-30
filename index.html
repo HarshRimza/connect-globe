@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+<head>
+<title>Connect Globe</title>
+<style>
+.title{font-size:40px;color:#FF4136;text-align:left;font-weight:bold;}
+.aim{font-size:17px;margin-left:10px;text-align:center;margin-bottom:15px;}
+body{margin: 0 auto;background-position: center;background-size: contain;}
+align{text-align: center;color: #878E83;font-size:18px;font-weight:bold;line-height: 30px;}
+.menu{position: sticky;top: 0;background-color: #85144b;padding:5px 0px 5px 0px;color:white;margin: 0 auto;overflow: hidden;}
+.menu a{float: left;color: white;display : block;text-align: center;padding: 14px 16px;text-decoration:none;font-size: 20px;}
+.menu_log{right:auto;float:right;}
+footer{width:100%;bottom:0px;background-color:#CED9C8;position:sticky;padding-top:10px;padding-bottom:20px;text-align:center;color:#878E83;font-size:15px;font-weight:bold;}
+button{color: #878E83;font-weight: bold;border: 1px solid #878E83;font-size: 16px;}
+.body_sec{text-align: center;color: #878E83;font-size: 18px;font-weight: bold;line-height: 30px;}
+</style>
+<script>
+var login=false;
+function hrefa(url)
+{
+url=url+'?login='+login;
+document.location.href=url;
+}
+
+</script>
+</head>
+<body>
+
+<header>
+<div class='title'>CONNECT GLOBE</div>
+</header>
+
+<div class='menu'>
+<a onclick=hrefa('/connect-globe/login')>Login</a>
+<a onclick=hrefa('/connect-globe/register')>Register</a>
+</div>
+<br>
+
+<section id='form'>
+</section>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer>CONNECT GLOBE  | All rights Reserved. </footer>
+
+</body>
+</html>

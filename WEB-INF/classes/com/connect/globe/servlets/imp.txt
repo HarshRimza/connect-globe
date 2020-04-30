@@ -1,0 +1,20 @@
+package com.connect.globe.servlets;
+import javax.servlet.*;
+import javax.servlet.http.*;
+import java.io.*;
+import java.sql.*;
+public class  extends HttpServlet
+{
+public void doGet(HttpServletRequest rq, HttpServletResponse rs)
+{
+try
+{
+rs.setContentType("text/html");
+PrintWriter pw=rs.getWriter();
+
+}catch(Exception e)
+{
+System.out.println(e);
+}
+}
+}
