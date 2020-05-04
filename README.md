@@ -45,7 +45,7 @@ register yourself as follows.
 
 Class Diagram :
 
-
+![image](https://user-images.githubusercontent.com/60133190/80934129-5ff25b80-8de4-11ea-9f3f-95ae33a34424.png)
 
 Activity Diagram :
 
