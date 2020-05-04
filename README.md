@@ -43,3 +43,12 @@ register yourself as follows.
 
 ![image](https://user-images.githubusercontent.com/60133190/80933471-81057d00-8de1-11ea-8656-efe85857e7b6.png)
 
+Class Diagram :
+
+Activity Diagram :
+
+![image](https://user-images.githubusercontent.com/60133190/80933663-57008a80-8de2-11ea-8c2e-9d089d9b78c9.png)
+
+Sequence Diagram :
+
+![image](https://user-images.githubusercontent.com/60133190/80933674-5ec02f00-8de2-11ea-8c2e-3506d5be0d79.png)
