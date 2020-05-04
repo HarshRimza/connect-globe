@@ -1,9 +1,9 @@
 # connect-globe project report
-###Objective : To create a project that connects people around the world and shares experiences and informations and they are able to discuss on any topic, but only registered users. Also they can send report and also give advice on any topic.
+#Objective : To create a project that connects people around the world and shares experiences and informations and they are able to discuss on any topic, but only registered users. Also they can send report and also give advice on any topic.
 Users of the System :
 1.	Admin
 2.	User Common
-##Functional Requirements :
+#Functional Requirements :
 1.	Admin : Admin need to first log in, and then he/she can create another user record, post the topic to be discussed and report and also send advice respectively. He / She can view all reports and topics to be discussed with there citie. He / She can view the previously posted comments and post a comment on each report or topic
 2.	Common User : Common User also need to first log in, then he/she find report according to area and also give advice on any report and can also discuss on any topic.
 ##Tools to be used : 
