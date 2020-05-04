@@ -46,9 +46,10 @@ register yourself as follows.
 Class Diagram :
 
 Activity Diagram :
-
+                                             Initial State
 ![image](https://user-images.githubusercontent.com/60133190/80933663-57008a80-8de2-11ea-8c2e-9d089d9b78c9.png)
-
+                                             Final State
+                                             
 Sequence Diagram :
 
 ![image](https://user-images.githubusercontent.com/60133190/80933674-5ec02f00-8de2-11ea-8c2e-3506d5be0d79.png)
